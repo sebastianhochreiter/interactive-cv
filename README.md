@@ -13,7 +13,7 @@ Ich bin Sebastian Hochreiter, ein erfahrener Entwickler und Projektmanager mit u
 ### Projekt 1: [Projektname]
 - **Beschreibung:** Eine vollständige Beschreibung des Projekts, einschließlich seiner Ziele und Funktionen.
 - **Technologien:** Vue.js, Express.js, HTML, CSS, JavaScript
-- **GitHub-Repository:** [Link zum GitHub-Repository]
+- **GitHub-Repository:** [Link zum GitHub-Repository](https://github.com/sebastianhochreiter/containerization-projects/blob/main/paperless-portainer-ssl.yaml)
 - **Live-Demo:** [Link zur Live-Demo, falls vorhanden]
 
 ### Projekt 2: [Projektname]
